@@ -1,6 +1,6 @@
-package Fundamentals;
+package fundamentals;
 
-public class SumGreaterTen {
+public class ElementCounter {
 
     public static void main(String[] args) {
 
